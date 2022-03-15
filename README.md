@@ -1,4 +1,4 @@
-# MM2021-ANRL_FAS
+# ANRL_for_FAS
 
 **NOTE:** ANRL is integrated into Tencent YouTu's [TFace](https://github.com/Tencent/TFace) project where you can find the complete codes.
 
